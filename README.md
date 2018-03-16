@@ -1,9 +1,15 @@
 ﻿
 # GitServer
 
-ASP.NET Core 2.0开发Git HTTP Server
+基于ASP.NET Core 2.0开发的Git HTTP Server
 
-设置
+## Git基础知识
+请移步:
+- https://git-scm.com/book/zh
+- [👍 史上最浅显易懂的Git教程 ( 廖雪峰 )](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [ProGit（中文版）](http://git.oschina.net/progit/)
+## GitServer 安装
+### 设置
 
 ```
   "GitSettings": {
